@@ -4,7 +4,7 @@
 
 ---
 
-# Español
+# Español (Português mais abaixo)
 
 ## Requisitos previos
 
