@@ -1,4 +1,4 @@
-# Small Open Language Models Workshop
+# Taller de Pequeños Modelos de Lenguaje Abiertos
 
 ### 1er Workshop Eje de Innovación — Red Feminista en IA para Latinoamérica y el Caribe
 
@@ -158,7 +158,7 @@ Se abrirá automáticamente una pestaña en tu navegador. Si no se abre, copiá 
 
 **Paso 6 — Abrir y ejecutar el notebook**
 
-1. En el panel izquierdo, hacé doble clic en `SmallOpenLanguageModelsWorkshop.ipynb`.
+1. En el panel izquierdo, hacé doble clic en `TallerPequeñosModelosDeLenguajeAbiertos.ipynb`.
 2. Ejecutá la primera celda de código — instalará automáticamente todos los paquetes necesarios.
 
 ---
@@ -319,5 +319,5 @@ Uma aba será aberta automaticamente no seu navegador. Se não abrir, copie a UR
 
 **Passo 6 — Abrir e executar o notebook**
 
-1. No painel esquerdo, dê um duplo clique em `SmallOpenLanguageModelsWorkshop.ipynb`.
+1. No painel esquerdo, dê um duplo clique em `SeminarioPequenosModelosDeLinguagemAbertos.ipynb`.
 2. Execute a primeira célula de código — ela instalará automaticamente todos os pacotes necessários.
