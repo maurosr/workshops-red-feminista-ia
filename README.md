@@ -1,14 +1,25 @@
-# Taller de Pequeños Modelos de Lenguaje Abiertos
+# Workshops del Eje de Innovación
 
-### 1er Workshop Eje de Innovación — Red Feminista en IA para Latinoamérica y el Caribe
+Copyright (c) 2026, Mauro Schilman, Luciana Benotti
+
+### Red Feminista en IA para Latinoamérica y el Caribe
 
 ---
 
 # Español (Português mais abaixo)
 
+## Los workshops
+
+Cada workshop es un notebook **autocontenido**: instala todos sus paquetes al ejecutar su primera celda de código. Los requisitos y pasos de instalación de abajo son los mismos para todos.
+
+| Workshop | Tema | Notebook (español) | Notebook (português) |
+| -------- | ---- | ------------------ | -------------------- |
+| **1º** | Pequeños Modelos de Lenguaje Abiertos | `TallerPequeñosModelosDeLenguajeAbiertos.ipynb` | `SeminarioPequenosModelosDeLinguagemAbertos.ipynb` |
+| **2º** | Retrieval-Augmented Generation (RAG) | `TallerGeneracionAumentadaPorRecuperacion.ipynb` | `SeminarioGeracaoAumentadaPorRecuperacao.ipynb` |
+
 ## Requisitos previos
 
-Para ejecutar este notebook solo necesitás instalar dos cosas:
+Para ejecutar los notebooks solo necesitás instalar dos cosas:
 
 | Requisito      | Versión mínima  |
 | -------------- | --------------- |
@@ -17,7 +28,7 @@ Para ejecutar este notebook solo necesitás instalar dos cosas:
 
 > JupyterLab instala `ipykernel` automáticamente.
 
-> El notebook instala automáticamente todos los demás paquetes (torch, transformers, etc.) al ejecutar su primera celda de código.
+> Cada notebook instala automáticamente todos los demás paquetes (torch, transformers, llama-index, etc.) al ejecutar su primera celda de código.
 
 ---
 
@@ -158,8 +169,20 @@ Se abrirá automáticamente una pestaña en tu navegador. Si no se abre, copiá 
 
 **Paso 6 — Abrir y ejecutar el notebook**
 
-1. En el panel izquierdo, hacé doble clic en `TallerPequeñosModelosDeLenguajeAbiertos.ipynb`.
+1. En el panel izquierdo, hacé doble clic en el notebook del workshop que vayas a hacer (ver la tabla de arriba), por ejemplo `TallerGeneracionAumentadaPorRecuperacion.ipynb`.
 2. Ejecutá la primera celda de código — instalará automáticamente todos los paquetes necesarios.
+
+---
+
+## Autoría y atribución
+
+Este proyecto fue creado por:
+* **Mauro Schilman**
+* **Luciana Benotti**
+
+### Cómo atribuir este trabajo
+Si modificás o compartís este trabajo, por favor atribuilo de la siguiente manera:
+> "Workshops de IA del Eje de Innovacion 2026" de Mauro Schilman y Luciana Benotti, usado bajo licencia CC BY-NC-SA 4.0
 
 ---
 
@@ -167,9 +190,18 @@ Se abrirá automáticamente una pestaña en tu navegador. Si no se abre, copiá 
 
 # Português
 
+## Os workshops
+
+Cada workshop é um notebook **autocontido**: instala todos os seus pacotes ao executar sua primeira célula de código. Os requisitos e passos de instalação abaixo são os mesmos para todos.
+
+| Workshop | Tema | Notebook (espanhol) | Notebook (português) |
+| -------- | ---- | ------------------- | -------------------- |
+| **1º** | Pequenos Modelos de Linguagem Abertos | `TallerPequeñosModelosDeLenguajeAbiertos.ipynb` | `SeminarioPequenosModelosDeLinguagemAbertos.ipynb` |
+| **2º** | Retrieval-Augmented Generation (RAG) | `TallerGeneracionAumentadaPorRecuperacion.ipynb` | `SeminarioGeracaoAumentadaPorRecuperacao.ipynb` |
+
 ## Pré-requisitos
 
-Para executar este notebook você só precisa instalar duas coisas:
+Para executar os notebooks você só precisa instalar duas coisas:
 
 | Requisito      | Versão mínima    |
 | -------------- | ---------------- |
@@ -178,7 +210,7 @@ Para executar este notebook você só precisa instalar duas coisas:
 
 > O JupyterLab instala o `ipykernel` automaticamente.
 
-> O notebook instala automaticamente todos os outros pacotes (torch, transformers, etc.) ao executar sua primeira célula de código.
+> Cada notebook instala automaticamente todos os outros pacotes (torch, transformers, llama-index, etc.) ao executar sua primeira célula de código.
 
 ---
 
@@ -319,5 +351,17 @@ Uma aba será aberta automaticamente no seu navegador. Se não abrir, copie a UR
 
 **Passo 6 — Abrir e executar o notebook**
 
-1. No painel esquerdo, dê um duplo clique em `SeminarioPequenosModelosDeLinguagemAbertos.ipynb`.
+1. No painel esquerdo, dê um duplo clique no notebook do workshop que você vai fazer (ver a tabela acima), por exemplo `SeminarioGeracaoAumentadaPorRecuperacao.ipynb`.
 2. Execute a primeira célula de código — ela instalará automaticamente todos os pacotes necessários.
+
+---
+
+## Autoria e atribuição
+
+Este projeto foi criado por:
+* **Mauro Schilman**
+* **Luciana Benotti**
+
+### Como atribuir este trabalho
+Se você modificar ou compartilhar este trabalho, por favor atribua da seguinte forma:
+> "Workshops de IA del Eje de Innovacion 2026" de Mauro Schilman e Luciana Benotti, usado sob a licença CC BY-NC-SA 4.0
